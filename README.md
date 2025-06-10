@@ -1,8 +1,8 @@
 # Sidebar — Test Assignment for Makves Group
 
-Автор: [Дмитрий Червочкин](https://github.com/chrvdevelop)
-Telegram [@chrvdevelor](t.me/chrvdevelop)
-Репозиторий: [GitHub ↗](https://github.com/dmitrychervochkin/sidebar_makves_group.git)
+Автор: [Дмитрий Червочкин](https://github.com/chrvdevelop)  
+Telegram [@chrvdevelor](t.me/chrvdevelop)  
+Репозиторий: [GitHub ↗](https://github.com/dmitrychervochkin/sidebar_makves_group.git)  
 
 ---
 
