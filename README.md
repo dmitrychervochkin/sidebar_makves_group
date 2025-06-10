@@ -1,6 +1,7 @@
 # Sidebar — Test Assignment for Makves Group
 
-Автор: [@chrvdevelop](https://github.com/chrvdevelop)  
+Автор: [Дмитрий Червочкин](https://github.com/chrvdevelop)  
+Telegram [@chrvdevelor](t.me/chrvdevelop)
 Репозиторий: [GitHub ↗](https://github.com/dmitrychervochkin/sidebar_makves_group.git)
 
 ---
@@ -46,8 +47,3 @@ npm run dev
 ```bash
 <Sidebar color="light/dark" />
 ```
-
-📞 Контакты
-
-Разработчик: tg @chrvdevelop
-Почта: chrvdevelop@icloud.com
