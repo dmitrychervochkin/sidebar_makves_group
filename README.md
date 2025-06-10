@@ -37,14 +37,14 @@
 git clone https://github.com/dmitrychervochkin/sidebar_makves_group.git
 cd sidebar_makves_group
 npm install
-npm run dev # или npm start
+npm run dev
 ```
 
 🎨 Темизация
 
 Цветовая схема задаётся через проп color, который влияет на все переменные:
 ```bash
-<Sidebar color="blue" />
+<Sidebar color="light/dark" />
 ```
 
 📞 Контакты
