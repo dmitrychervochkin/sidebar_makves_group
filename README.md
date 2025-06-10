@@ -2,7 +2,6 @@
 
 Автор: [Дмитрий Червочкин](https://github.com/chrvdevelop)  
 Telegram [@chrvdevelor](t.me/chrvdevelop)  
-Репозиторий: [GitHub ↗](https://github.com/dmitrychervochkin/sidebar_makves_group.git)  
 
 ---
 
